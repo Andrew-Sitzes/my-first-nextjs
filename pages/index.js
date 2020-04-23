@@ -9,7 +9,7 @@ const Home = () => (
 
     <main>
       <h1 className="title">
-        HEYEYEYEYYYYYYYYY!!!!!!!!!!!!!!!!!!!!!!! WHAT THE FUCK!!!!!!!!! <a href="https://nextjs.org">Next.js!</a>
+        HEYEYEYEYYYYYYYYY!!!!!!!!!!!!!!!!!!!!!!!!!!! WHAT. THE. FUCK!!!!!!!!! <a href="https://nextjs.org">Next.js!</a>
       </h1>
 
       <p className="description">
